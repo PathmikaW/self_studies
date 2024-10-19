@@ -37,5 +37,16 @@ If there’s no "Applications" folder in your current directory, you'll get an e
     - Custom Keyboard Shortcut: Use Automator to create a shortcut for opening Terminal.
     - Use Go2Shell App: Adds a button in Finder to open Terminal directly.
 
+# optimizing macbook battery life
 
+- Energy: Lower performance settings extend battery life.
+- Brightness: Dim the screen to save power.
+- Wi-Fi: Turn off when not in use to conserve energy.
+- Apps & Peripherals: Disconnect/quit unused items to reduce power consumption.
 
+- Keep the  MacBook plugged in and powered on when charging other devices via USB. If not, the connected device may drain  MacBook's battery, especially if the MacBook is off, in sleep, or standby mode.
+
+https://www.apple.com/batteries/maximizing-performance/
+
+- USB extensions: Keep your Mac plugged in to avoid draining the battery.
+- Battery life: Working while plugged in won't significantly hurt the battery, but occasional unplugging is good for battery health over the long term.

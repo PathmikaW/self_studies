@@ -30,5 +30,12 @@ If there’s no "Applications" folder in your current directory, you'll get an e
 # /Applications is the absolute path to the system-wide applications folder.
 # Applications is a relative path and depends on where you currently are in the file system.
 
+# open the mac terminal 
+
+    - Right-click in Finder: Select "New Terminal at Folder".
+    - Drag folder into Terminal: Opens that folder in Terminal.
+    - Custom Keyboard Shortcut: Use Automator to create a shortcut for opening Terminal.
+    - Use Go2Shell App: Adds a button in Finder to open Terminal directly.
+
 
 

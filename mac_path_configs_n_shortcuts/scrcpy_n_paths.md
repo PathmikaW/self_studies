@@ -67,3 +67,13 @@ source ~/.zshrc
 
 - gem install cocoapods
 - pod --version
+
+# xcode path error fix
+- xcode-select -p
+    /Library/Developer/CommandLineTools
+- system is currently set to use the Command Line Tools instead of the full Xcode installation
+- ls /Applications/Xcode.app
+- sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+- xcode-select -p
+- /Applications/Xcode.app/Contents/Developer
+- sudo xcodebuild -license

@@ -50,3 +50,20 @@ https://www.apple.com/batteries/maximizing-performance/
 
 - USB extensions: Keep your Mac plugged in to avoid draining the battery.
 - Battery life: Working while plugged in won't significantly hurt the battery, but occasional unplugging is good for battery health over the long term.
+
+# install ruby 
+
+- need to install ruby before install pods
+- brew install rbenv ruby-build
+- echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+source ~/.zshrc
+- rbenv install -l
+- rbenv install 3.3.5
+- rbenv global 3.3.5  # Set the version as the global default
+- ruby -v
+
+# install pods
+
+- gem install cocoapods
+- pod --version

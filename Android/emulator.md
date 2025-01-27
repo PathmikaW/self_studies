@@ -51,3 +51,6 @@ bash
 Copy code
 adb logcat
 or the VS Code Debug Console.
+
+
+npx react-native run-android --deviceId <device_id>
